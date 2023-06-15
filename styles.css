@@ -3,19 +3,32 @@
 }*/
 /* paletton.com */
 
+* {
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+
+
+
 body {
-	background-image: url(html-color-codes-color-tutorials-hero.jpg);
+	background-image: url(/Documents/Programmation/HTML/projetcss/img/fondbleu.webp);
 	background-size: cover;
 }
 
-h2, button {
-	color: white;
-	text-align: center;
-	border: 10px solid; purple;
-	border-color: darkturquoise;
-	background-color: black;
+h5 {
+	
 }
 
+button {
+	border-color: gray;
+}
+
+img {
+	float: left;
+	cursor: pointer;
+}
 
 a {
 	color: darkred;
@@ -26,28 +39,38 @@ li {
 	display: block;
 }
 
-p {
+footer {
+	text-align: center;
+}
 
-} 
+.mettaton {
+	float: left;
+
+}
 
 .je {
 	color: green;
 	border: solid;
+	background-color: ;
+	clear: left;
 }
 
 .suis {
 	color: red;
 	border: solid;
+
 }
 
 .haut {
 	color: purple;
 	border: solid;
+
 }
 
 .en {
 	color: darkcyan;
 	border: solid;
+
 }
 
 .couleurs {
@@ -55,10 +78,34 @@ p {
 	border: solid;
 }
 
-img {
-	cursor: pointer;
-}
 
 .sept {
 	color: black;
+}
+
+.tricheur {
+	background-color: white;
+	color: black;
+}
+
+.regle {
+	color: white;
+	text-align: center;
+	border: 10px solid;
+	border-color: orange;
+	background-color: black;
+}
+
+.connexion {
+	text-align: center;
+	border: 20px solid;
+	background-color: black;
+	color: white;
+}
+
+h2 .touche:hover {
+	text-align: center;
+	border: solid;
+	border-color: green;
+	font-family: 'Raleway', sans-serif;
 }
