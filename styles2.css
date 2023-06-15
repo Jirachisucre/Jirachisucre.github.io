@@ -6,14 +6,40 @@
 body {
 	background-image: url(https://www.lescreasderose.fr/wp-content/uploads/2020/03/fond_peluche_undertale_mettaton.jpg);
 	background-size: cover;
+	font-size: 150%;
 }
 
+h2,h1 {
+
+	font-family: 'Arial', sans-serif;
+}
+
+
+.magolor:hover {
+  border: solid;
+  border-color: green;
+}
+
+.magolordrip {
+  visibility: hidden;
+}
+
+.magolor:hover ~ .magolordrip {
+  visibility: visible;
+}
+
+.magolor:hover {
+  display: none;
+
+}
 
 .titre {
 	color: black;
 	text-align: center;
 	}
 
+
 .sept {
 	color: black;
 }
+
