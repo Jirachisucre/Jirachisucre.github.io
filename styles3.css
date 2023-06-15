@@ -1,0 +1,60 @@
+/*sélécteur {
+	propriété:	valeur;
+}*/
+/* paletton.com */
+
+body {
+	background-image: url(/Documents/Programmation/HTML/projetcss/noir.jpg);
+	background-size: cover;
+}
+
+p {
+	color: white;
+}
+
+.noir1 {
+	color: 20px solid ;
+	border-color: white;
+	border: solid;
+	display: inline-block;
+	padding: 50px;
+	margin: 0px 50px 0px 50px;
+}
+
+.noir2 {
+	color: 10px solid ;
+	border-color: white;
+	border: solid;
+	display: inline-block;
+	padding: 5px 20px 5px 20px;
+	margin: 0px 20px 0px 20px;
+
+}
+
+.noir3 {
+	color: 10px solid ;
+	border-color: white;
+	border: solid;
+	display: inline-block;
+	padding: 20px 5px 20px 5px;
+	margin: 0px 20px 0px 20px;
+}
+
+.troublanc {
+	float: right;
+}
+
+p {
+	font-size: 2em;
+	color: white;
+}
+
+span {
+	font-size: 2em;
+	color: white;
+}
+
+
+.f {
+	color: white;
+}
