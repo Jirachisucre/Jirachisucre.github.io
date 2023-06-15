@@ -4,7 +4,7 @@
 /* paletton.com */
 
 * {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Arial', sans-serif;
 
 }
 
@@ -53,39 +53,45 @@ footer {
 	border: solid;
 	background-color: ;
 	clear: left;
+	font-family: 'Arial', sans-serif;
 }
 
 .suis {
 	color: red;
 	border: solid;
-
+	font-family: 'Arial', sans-serif;
 }
 
 .haut {
 	color: purple;
 	border: solid;
+	font-family: 'Arial', sans-serif;
 
 }
 
 .en {
 	color: darkcyan;
 	border: solid;
+	font-family: 'Arial', sans-serif;
 
 }
 
 .couleurs {
 	color: blue;
 	border: solid;
+	font-family: 'Arial', sans-serif;
 }
 
 
 .sept {
 	color: black;
+	font-family: 'Arial', sans-serif;
 }
 
 .tricheur {
 	background-color: white;
 	color: black;
+	font-family: 'Arial', sans-serif;
 }
 
 .regle {
@@ -94,6 +100,7 @@ footer {
 	border: 10px solid;
 	border-color: orange;
 	background-color: black;
+	font-family: 'Arial', sans-serif;
 }
 
 .connexion {
@@ -101,6 +108,7 @@ footer {
 	border: 20px solid;
 	background-color: black;
 	color: white;
+	font-family: 'Arial', sans-serif;
 }
 
 h2 .touche:hover {
